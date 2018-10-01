@@ -10,6 +10,6 @@ Automagically reloads your server and transpile Sass to CSS
 * Add your sass file to the src/sass folder and your index.html in the src/ directory.
 * Run the build command:
 ```$ npm run dev``` 
-Thi will build the sass file into css and stores in the dist folder and then starts the live server ( link in terminal log )
+This will build the sass file into main.css  in the dist folder and then starts the live server. You can view the localhost link in your terminal.
 
 😊Happy Coding!🤷
