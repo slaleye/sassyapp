@@ -1,0 +1,14 @@
+$text_color: #C96195;
+$font_sass : source-sans-pro, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+body {
+   font-family: $font_sass;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+h1{
+  color:$text_color;
+  font-size:xx-large;
+}
