@@ -1,6 +1,10 @@
 # sassyapp
 Boilerplate with Gulp file to watch and reload your Sass based app on a live server.
-Automagically reloads your server and transpile Sass to CSS
+Automagically reloads your server and transpile Sass to CSS.
+
+# Requirements
+* NodeJs
+* npm
 
 # Installation
 * Clone files to a folder
